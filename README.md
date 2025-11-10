@@ -1,0 +1,3 @@
+The primary goal of the system, which is to bridge the gap between computer vision and natural language processing by generating accurate, relevant, and grammatically correct descriptions for images.
+Methodology: A high-level description of the technical approach used. This commonly involves an encoder-decoder architecture where a Convolutional Neural Network (CNN) extracts visual features (encoder) and a Recurrent Neural Network (RNN) or Transformer-based model generates the text sequence (decoder).
+Dataset: The specific datasets used for training and evaluation (e.g., MS COCO, Flickr8k/30k), including details on their size and nature (e.g., number of images, number of reference captions per image).
